@@ -13,10 +13,12 @@ See [Releases](../../releases) tab for `.dmg` downloads.
 
 | Release | macOS | Architecture |
 |---|---|---|
+| v0.1.9 | 14.4+ | Apple Silicon (arm64) + Intel (x64) |
+| v0.1.8 | 13+ | Apple Silicon (arm64) + Intel (x64) |
 | v0.1.0 | 13+ | Apple Silicon (arm64) + Intel (x64) |
 
 ## Install
 
-Скачайте `.dmg` подходящий вашему Mac, перетащите в Applications, при первом запуске right-click → Open (билд не подписан Apple Developer ID).
+Скачайте `.dmg` подходящий вашему Mac, перетащите в Applications, при первом запуске right-click → Open или System Settings → Privacy & Security → Open Anyway (билд не подписан Apple Developer ID).
 
 Полная инструкция: [suite.mymeet.ai/desktop](https://suite.mymeet.ai/desktop).
