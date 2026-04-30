@@ -13,6 +13,7 @@ See [Releases](../../releases) tab for `.dmg` downloads.
 
 | Release | macOS | Architecture |
 |---|---|---|
+| v0.1.10 | 14.4+ | Apple Silicon (arm64) + Intel (x64) |
 | v0.1.9 | 14.4+ | Apple Silicon (arm64) + Intel (x64) |
 | v0.1.8 | 13+ | Apple Silicon (arm64) + Intel (x64) |
 | v0.1.0 | 13+ | Apple Silicon (arm64) + Intel (x64) |
